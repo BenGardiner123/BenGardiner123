@@ -7,11 +7,15 @@
 Currently studying **Software Development**💻 at **Swinburne University of Technology**
 
   
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-## My interests are ❤️ 
-  
-
-**SQL, AWS, Angular and .NET**☁️
+```javascript
+const Ben = {
+  code: [SQL, C#, Typescript, Javascript, HTML, CSS,],
+  tools: [Angular, AWS, Enterprise Architect],
+  skills: ["Web API", "project-management", "design system pattern"]
+}
+```
   
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical)
