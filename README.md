@@ -24,9 +24,7 @@ const Ben = {
   
 <div align="center">
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical)
-</div>
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&layout=compact)](https://github.com/BenGardiner123/github-readme-stats)
 </div>
 
