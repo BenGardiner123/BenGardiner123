@@ -1,4 +1,4 @@
-<div align="center">
+
   
   
 <h1>Hi there, I'm Ben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -16,7 +16,7 @@ const Ben = {
   skills: ["Web API", "project-management", "design system pattern"]
 }
 ```
-  
+<div align="center">
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical)
 
