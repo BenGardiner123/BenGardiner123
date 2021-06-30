@@ -7,7 +7,7 @@
 Currently studying **Software Development**💻 at **Swinburne University of Technology**
 
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Ben = {
