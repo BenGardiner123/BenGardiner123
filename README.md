@@ -14,7 +14,8 @@ const Ben = {
   Front-End: [Typescript, Javascript, HTML, CSS, Angular],
   Back-End: [C#, SQL, EFCore, Dapper, MongoDB],
   Cloud: [AWS, Azure],
-  Skills: ["Project-Management", "Agile"]
+  Skills: ["Project-Management", "Agile"],
+  Interested-in: [TDD, Data-Visualisation, Microservices, CI/CD]
 }
 ```
 
