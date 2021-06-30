@@ -20,7 +20,7 @@ const Ben = {
   interestedIn: ["TDD", "Data-Visualisation", "Microservices", "CI/CD"]
 }
 ```
-</div> 
+
   
 <div align="center">
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical)
