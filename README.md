@@ -7,7 +7,7 @@
 Currently studying **Software Development**💻 at **Swinburne University of Technology**
 
   
-### <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="60", Height="60"> A little more about me...  
 
 ```javascript
 const Ben = {
@@ -15,7 +15,7 @@ const Ben = {
   Back-End: [C#, SQL, EFCore, Dapper, MongoDB],
   Cloud: [AWS, Azure],
   Skills: ["Project-Management", "Agile"],
-  Interested-in: [TDD, Data-Visualisation, Microservices, CI/CD]
+  Interested-In: [TDD, Data-Visualisation, Microservices, CI/CD]
 }
 ```
 
