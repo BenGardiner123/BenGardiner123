@@ -26,6 +26,7 @@ const Ben = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&layout=compact)](https://github.com/BenGardiner123/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenGardiner123&repo=github-readme-stats)](https://github.com/BenGardiner123/github-readme-stats)
 
 
 
