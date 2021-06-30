@@ -11,11 +11,11 @@ Currently studying **Software Development**💻 at **Swinburne University of Tec
 
 ```javascript
 const Ben = {
-  Front-End: ["Typescript", "Javascript", "HTML", "CSS", "Angular"],
-  Back-End: ["C#", "SQL", "EFCore", "Dapper", "MongoDB"],
-  Cloud: ["AWS", "Azure"],
-  Skills: ["Project-Management", "Agile"],
-  Interested-In: ["TDD", "Data-Visualisation", "Microservices", "CI/CD"]
+  frontEnd: ["Typescript", "Javascript", "HTML", "CSS", "Angular"],
+  backEnd: ["C#", "SQL", "EFCore", "Dapper", "MongoDB"],
+  cloud: ["AWS", "Azure"],
+  skills: ["Project-Management", "Agile"],
+  interestedIn: ["TDD", "Data-Visualisation", "Microservices", "CI/CD"]
 }
 ```
 
