@@ -2,6 +2,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123)](https://github.com/BenGardiner123/github-readme-stats)
 
 
 
