@@ -3,7 +3,7 @@
 <div align="center">  
 <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="80" height="60">
 <h1>Hi there, I'm Ben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<div> 
+</div> 
   
 Currently studying **Software Development**💻 at **Swinburne University of Technology**
 
@@ -20,14 +20,15 @@ const Ben = {
   interestedIn: ["TDD", "Data-Visualisation", "Microservices", "CI/CD"]
 }
 ```
-
+</div> 
+  
 <div align="center">
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical)
-<div>
+</div>
 
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&layout=compact)](https://github.com/BenGardiner123/github-readme-stats)
-<div>
+</div>
 
 
 
