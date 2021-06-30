@@ -11,7 +11,9 @@ Currently studying **Software Development**💻 at **Swinburne University of Tec
 
 <div align="left">
   
+  
 ### A little more about me...  
+  
 
 ```javascript
 const Ben = {
@@ -22,9 +24,12 @@ const Ben = {
   interestedIn: ["TDD", "Data-Visualisation", "Microservices", "CI/CD"]
 }
 ```
+  
 
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical)
+  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&layout=compact)](https://github.com/BenGardiner123/github-readme-stats)
 
