@@ -16,7 +16,7 @@ const Ben = {
   skills: ["Web API", "project-management", "design system pattern"]
 }
 ```
-<div align="center">
+
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical)
 
@@ -26,6 +26,6 @@ const Ben = {
 
 
 
-</div>
+
 
 
