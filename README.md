@@ -7,6 +7,7 @@
   
 Currently studying **Software Development**💻 at **Swinburne University of Technology**
 
+<div align="left">
   
 ### A little more about me...  
 
@@ -26,7 +27,7 @@ const Ben = {
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123)](https://github.com/BenGardiner123/github-readme-stats)
-
+<div>
 
 
 
