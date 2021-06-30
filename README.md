@@ -11,9 +11,10 @@ Currently studying **Software Development**💻 at **Swinburne University of Tec
 
 ```javascript
 const Ben = {
-  code: [SQL, C#, Typescript, Javascript, HTML, CSS,],
-  tools: [Angular, AWS, Enterprise Architect],
-  skills: ["Web API", "project-management", "design system pattern"]
+  Font-End: [Typescript, Javascript, HTML, CSS, Angular],
+  Back-End: [C#, SQL, EFCore, Dapper, MongoDB],
+  Cloud: [AWS, Azure],
+  skills: ["project-management", "Agile"]
 }
 ```
 
