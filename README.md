@@ -5,7 +5,7 @@
 <h1>Hi there, I'm Ben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
   
-Currently studying **Software Development**💻 at **Swinburne University of Technology**
+Currently studying **Software Development** 💻 at **Swinburne University of Technology**
   
 </div> 
 
