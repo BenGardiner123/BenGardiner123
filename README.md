@@ -25,7 +25,7 @@ const Ben = {
 }
 ```
 <div>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=BenGardiner123&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0, 517A94&theme=radical" hspace="10"/>     <!-- wi*quL3fcV --> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0, 517A94&theme=radical" />
+<img height="137px" width="100px"src="https://github-readme-stats.vercel.app/api?username=BenGardiner123&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0, 517A94&theme=radical" hspace="11px"/>     <!-- wi*quL3fcV --> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0, 517A94&theme=radical" />
 </div>  
 
 
