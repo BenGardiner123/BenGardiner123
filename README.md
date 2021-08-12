@@ -1,7 +1,7 @@
 
   
 <div align="center">  
-<img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="80" height="60">
+<img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="300" height="200">
 <h1>Hi there, I'm Ben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
   
