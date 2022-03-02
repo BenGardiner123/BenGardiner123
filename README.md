@@ -17,7 +17,7 @@ Currently studying **Software Development** 💻 at **Swinburne University of Te
 
 ```javascript
 const Ben = {
-  frontEnd: ["Typescript", "Javascript", "HTML", "CSS", "Angular"],
+  frontEnd: ["Typescript", "Javascript", "HTML", "CSS", "Angular", "React"],
   backEnd: ["C#", "SQL", "EFCore"],
   cloud: ["AWS", "Azure"],
   skills: ["Project-Management", "Agile"],
