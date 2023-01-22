@@ -1,5 +1,4 @@
 
-  
 <div align="center">  
 <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="300" height="200">
 <h1>Hi there, I'm Ben 👋 </h1>
@@ -24,13 +23,19 @@ const Ben = {
   interestedInLearning: ["TDD", "Data-Visualisation", "Microservices", "CI/CD", "Laravel", "Flutter", "PHP"]
 }
 ```
-<div>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=BenGardiner123&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0, 517A94&theme=radical" />     <!-- wi*quL3fcV --> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0, 517A94&theme=radical" />
-</div>  
 
-
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenGardiner123&show_icons=true&theme=radical" style="vertical-align: middle;">
+</div>
+<div height=100>
+  
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenGardiner123&layout=compact&theme=radical" style="vertical-align: middle;">
+</div>
+  
      
-
+</div>
 
 
 
