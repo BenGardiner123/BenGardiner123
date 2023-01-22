@@ -5,7 +5,7 @@
 <h1>Hi there, I'm Ben 👋 </h1>
 
   
-Currently studying **Software Development** 💻 at **Swinburne University of Technology**
+Currently working as a Junior Software Developer
   
 </div> 
 
@@ -17,8 +17,8 @@ Currently studying **Software Development** 💻 at **Swinburne University of Te
 
 ```javascript
 const Ben = {
-  frontEnd: ["Typescript", "Javascript", "HTML", "CSS", "Angular", "React"],
-  backEnd: ["C#", "SQL", "EFCore", "Node", "Refine", "SQLite"],
+  frontEnd: ["React", "Vue", "Typescript", "JavaScript", "Angular", "AntD", "Mui"],
+  backEnd: ["Koa", "Strapi", "C#", "SQL", "EFCore", "Node", "Refine", "SQLite"],
   cloud: ["AWS", "Azure"],
   skills: ["Project-Management", "Agile"],
   interestedInLearning: ["TDD", "Data-Visualisation", "Microservices", "CI/CD", "Laravel", "Flutter", "PHP"]
