@@ -4,7 +4,7 @@
 <h1>Hi there, I'm Ben 👋 </h1>
 
   
-Currently working as a Junior Software Developer
+Im a Software Developer
   
 </div> 
 
